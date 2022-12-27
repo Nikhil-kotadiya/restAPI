@@ -1,0 +1,50 @@
+[
+    {
+        "name": "iphone",
+        "price": 150,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "hp1500",
+        "price": 27000,
+        "featured": true,
+        "company": "hp"
+    },
+    {
+        "name": "hp15r006tx",
+        "price": 34000,
+        "featured": true,
+        "company": "hp"
+    },
+    {
+        "name": "dell_inspire",
+        "price": 42000,
+        "featured": false,
+        "company": "dell"
+    },
+    {
+        "name": "dell inspire",
+        "price": 47000,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "dell123",
+        "price": 54000,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "dell456",
+        "price": 28000,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "hp15r006tu",
+        "price": 37500,
+        "featured": true,
+        "company": "hp"
+    }
+]
